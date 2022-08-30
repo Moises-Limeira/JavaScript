@@ -8,6 +8,7 @@ if (arr.length) {
 }else{
   console.log('Condição falsa')
 }
+
 // Valores Truthy -->
 
 // if (true)

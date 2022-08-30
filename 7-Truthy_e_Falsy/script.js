@@ -1,4 +1,4 @@
-var arr = {};
+var arr = [];
 var example = {};
 
 console.log(!!example);
